@@ -1,1 +1,2 @@
 I love CMSC 100!
+I love linked list!
